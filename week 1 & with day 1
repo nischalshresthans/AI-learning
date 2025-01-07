@@ -1,1 +1,25 @@
-It's me Nischal Shrestha.I am learnig the AI
+It's me Nischal Shrestha.I am learnig the AI.
+first i am learnig the Python with w3 school
+--Variables, Numbers, Strings--
+*	Variable is the keywords which store the value.
+*	Number is the digit or mathematical and logical representation of the value
+*String is the value of the character which stores the alphabetic word
+	--Lists, Dictionaries, Sets, Tuples---
+-Lists is the casing of the value in big bracket "[]" which can store the value like int char and bool
+for example a=["nischal","shrestha","valle"]
+            print(a[1])#output :shrestha
+-tuple is indected by small bracket () which is use to store single variable
+Dictinonaries  is very important which store many value in a single {} for example 
+a={
+"name":"nischal",
+"age":23;
+"gender":"male"
+}
+o	If condition, for loop
+o	Functions, Lambda Functions
+o	Modules (pip install)
+o	Read, Write files
+o	Exception handling
+o	Classes, Objects
+
+
